@@ -1,0 +1,16 @@
+card{
+    max-width: 800;
+    margin: 15px;
+}
+ root{
+    width: '100%';
+    max-width: 360;
+    background-color: "#FFF";
+   margin-bottom: 15px,
+ }
+ .padding_15{
+    padding: 15px;
+ }
+ .margin_bottom{
+     margin-bottom: 15px;
+ }

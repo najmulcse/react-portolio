@@ -11,7 +11,7 @@ const AllStartsRateIcon = ({ counts, color }) => {
     return ( 
         <React.Fragment>
                 { countObject.map( item => (
-                    <StarRateIcon color={color}/>
+                    <StarRateIcon key={item.id} color={color}/>
                 ))}
         </React.Fragment>
      );

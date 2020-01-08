@@ -1,0 +1,9 @@
+.root{
+        height: 10;
+        background-color: lighten('#fff', 0.5),
+     }
+      
+.bar {
+         border-radius: 20;
+        background-color: '#ff6c5c';
+   }

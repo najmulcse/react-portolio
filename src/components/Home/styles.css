@@ -1,0 +1,9 @@
+
+.big-avatar{
+    margin: 10px;
+    width: 160px !important;
+    height: 160px !important;
+}
+.button{
+     margin: spacing(1);
+}
