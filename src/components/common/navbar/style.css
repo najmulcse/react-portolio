@@ -1,0 +1,33 @@
+.nav-cover{
+    padding-top: 200px;
+    margin: auto;
+    width: 40%;
+}
+
+.landing-hero{
+    background-image: url("../../../assets/images/hero_2048x1365.jpg");
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flight-card{
+
+}
+
+.flight-button:active{
+    background: aquamarin;
+}
+
+.depart-arrival-cover{
+    display:inline-flex;
+}
+
+.header-cover{
+    width: fit-content!important
+}
+.tab-flight-content{
+    padding-left: 0px !important;
+    padding-top: 5px !important;
+
+}

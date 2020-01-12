@@ -7,3 +7,10 @@
 .button{
      margin: spacing(1);
 }
+.wraper-cover{
+    margin: 100px 600px;
+}
+.root{
+    flex-grow: 1;
+    max-width: 500;
+  }
